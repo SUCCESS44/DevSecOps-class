@@ -1,0 +1,12 @@
+ctrl + L
+rm
+cd command
+ifconfig
+chown
+# dailies 16th February
+vim
+nothing
+git config --global "user.name" , git config --global "user.email"
+Linus Torvalds
+git commit -m "git quiz web file added"
+git init
