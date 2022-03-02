@@ -1,5 +1,8 @@
 #what is the maximum length of a python idntifier?
-79 charaters
+from xml.dom.minidom import CharacterData
+
+
+79 Character
 #which of the following is an invalid statement
 x y z = 1 2 3
 #Which of the following are valid Python variable names:
